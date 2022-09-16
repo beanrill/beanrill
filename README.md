@@ -5,4 +5,4 @@
 
 - 🌱 I’m currently learning **C#, .NET, Flask**
 
-- ⚡ Fun fact: **I love eating different types of dumplings**
+- ⚡ Fun fact: **I love eating different types of dumplings from around the 🌎**
