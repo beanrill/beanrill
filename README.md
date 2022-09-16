@@ -7,5 +7,5 @@
 
 - 🌱 Currently learning: **C#, .NET, Flask**
 
-- ⚡ Fun fact: **I love eating different types of dumplings from around the 🌎**
+- ⚡ Fun fact: **I am on a quest to try every type of dumpling from around the 🌎**
 
