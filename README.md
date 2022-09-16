@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio website and my RPG, Sifelion.**
 
-- 💻 Languages: Python, JavaScript, Assembly
+- 💻 Languages: Python, JavaScript, x86 Assembly
 
 - 🌱 Currently learning: **C#, .NET, Flask**
 
