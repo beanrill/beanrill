@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bianca!</h1>
-<h3 align="center">A full-time student majoring in CS</h3>
+### Hi 👋, I'm Bianca!
+<h3>A full-time student majoring in CS</h3>
 
 - 🔭 I’m currently working on **my portfolio website and my rpg, Sifelion!**
 
