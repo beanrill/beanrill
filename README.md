@@ -1,9 +1,9 @@
 <h1>Hi, I'm Bianca 👋 👩🏽‍💻</h1>
-<h3>A current cloud engineer intern and student majoring in CS with interests in full-stack development, cloud systems, and embedded engineering</h3>
+<h3>A current student majoring in CS with interests in full-stack development, cloud systems, and embedded engineering</h3>
 
-- 🔭 I’m currently working on my first RPi project and my RPG, Sifelion.
+- 🔭 I’m currently tinkering with my first RPi project
 
-- 💻 Languages: **Python, JavaScript, x86 Assembly**
+- 💻 Languages: **Python & JavaScript**
 
 - 🌱 Currently learning: **C#, .NET, Flask, Django**
 
