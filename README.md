@@ -5,7 +5,7 @@
 
 - 💻 Languages: **Python & JavaScript**
 
-- 🌱 Currently learning: **C#, .NET, Flask, Django**
+- 🌱 Currently learning: **C**
 
-- ⚡ Fun fact: I am on a quest to try every type of dumpling from around the 🌎
+<!-- ⚡ Fun fact: I am on a quest to try every type of dumpling from around the 🌎 -->
 
