@@ -1,5 +1,5 @@
 <h1>Hi, I'm Bianca 👋 👩🏽‍💻</h1>
-<h3>I'm a CS student with interests in full-stack development, cloud systems, and embedded engineering</h3>
+<h3>I'm a CS student with interests in embedded and cloud systems, and fullstack development</h3>
 
 - 🔭 I’m currently tinkering with my first RPi project
 
