@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently tinkering with my first RPi project
 
-- 💻 Languages: **Python & JavaScript**
+- 💻 Languages/Tools: **Python, ASM, HTML, CSS JavaScript**
 
 - 🌱 Currently learning: **C, Shell Scripting, gdb & Vim**
 
