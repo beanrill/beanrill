@@ -5,7 +5,7 @@
 
 - 💻 Languages: **Python & JavaScript**
 
-- 🌱 Currently learning: **C & Vim**
+- 🌱 Currently learning: **C, Shell Scripting, gdb & Vim**
 
 <!-- ⚡ Fun fact: I am on a quest to try every type of dumpling from around the 🌎 -->
 
